@@ -1,0 +1,20 @@
+{
+  "name": "starter-page-builder-Dev-Rigby",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/starter-page-builder-Dev-Rigby.git"
+  },
+  "keywords": [],
+  "author": "Brian McMahon <G00274188@stu.raritnval.edu> (https://github.com/Dev-Rigby)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/starter-page-builder-Dev-Rigby/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/starter-page-builder-Dev-Rigby#readme"
+}
